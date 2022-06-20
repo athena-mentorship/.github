@@ -1,1 +1,1 @@
-<img width="800" src="./profile/gif.gif">
+<img width="500" src="./profile/gif.gif">
