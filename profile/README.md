@@ -42,7 +42,7 @@ Tecnologias que utilizamos:
 
 <p>Esta proposta de projeto pretende criar uma plataforma digital baseada no ambiente da web, com a finalidade principal de conectar estudantes e potenciais tutores, seguramente validados e considerados capacitados para tal atuação por sua instituição de formação, a fim de promover suporte aos discentes da rede universitária durante seu período de capacitação. Complementar a isso, pretende-se estudar, as formas de relações entre alunos universitários e as componentes que envolvem o processo de esclarecimento de dúvidas sobre determinadas áreas do conhecimento, gerando como resultado, uma visão de como tal situação afeta a preparação de profissionais para o mercado.</p>
 
-"<h3>3. REFERENCIAL TEÓRICO E ESTADO DA ARTE</h3>
+<h3>3. REFERENCIAL TEÓRICO E ESTADO DA ARTE</h3>
 
 <p>No contexto pandêmico, ocasionado devido à disseminação do vírus Covid-19 entre os anos de 2020 e 2021, o globo se viu forçado a se adaptar ao Novo Normal. Com isso, escolas e universidades se sujeitaram a mudanças para manter sua qualidade de ensino, seja realizando seus trabalhos de maneira assíncrona e/ou remota, além de países de Primeiro Mundo, se tornarem mais uma vez, referências de modelos educacionais.</p>
 
