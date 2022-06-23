@@ -1,6 +1,6 @@
 ## Olá!!! Somos a **Athena Mentorship**👋
 
-![Uma ilustração mostrando o logotipo da Athena Monitoria..](./src/AthenaBanner.png)
+<img src="./src/AthenaBanner.png">
 
 A partir da experiência de parte da equipe como monitores, identificamos dificuldades tanto por parte dos alunos, que procuravam por assessoria, quanto dos monitores em busca de informações referentes às disciplinas. Dificuldades como o tempo de acesso à matéria, ao conteúdo em questão, de entendimento e tempo de resposta foram percebidas durante as atividade de monitoria.
 
