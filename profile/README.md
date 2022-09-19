@@ -28,6 +28,8 @@ Tecnologias que utilizamos:
 
 <details>
 
+- [Persona, Mapa de Empatia e Proposta de Valor](https://www.canva.com/design/DAE8lH36Snc/7oXtQoYYRM-EeX1Mw0yt_A/view?utm_content=DAE8lH36Snc&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent)
+
 <summary>"Uma visão mais formal..."</summary>
 
 <br>
