@@ -1,4 +1,6 @@
 ## Olá!!! Somos a **Athena Mentorship**👋
+### Clique [_aqui_](https://athena-staff.herokuapp.com/) para visitar nossa plataforma
+_Aguarde alguns segundos até que o servidor seja iniciado_
 
 <img src="https://raw.githubusercontent.com/tai-II-plataforma-educacional/.github/main/profile/src/AthenaBanner.png">
 
